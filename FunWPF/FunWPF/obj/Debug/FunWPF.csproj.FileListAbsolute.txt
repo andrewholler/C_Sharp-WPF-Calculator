@@ -1,0 +1,9 @@
+C:\Users\Andrew\Source\Repos\FunWPF\FunWPF\FunWPF\bin\Debug\FunWPF.exe.config
+C:\Users\Andrew\Source\Repos\FunWPF\FunWPF\FunWPF\obj\Debug\FunWPF.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Source\Repos\FunWPF\FunWPF\FunWPF\obj\Debug\FunWPF.Properties.Resources.resources
+C:\Users\Andrew\Source\Repos\FunWPF\FunWPF\FunWPF\obj\Debug\FunWPF.csproj.GenerateResource.Cache
+C:\Users\Andrew\Source\Repos\FunWPF\FunWPF\FunWPF\bin\Debug\FunWPF.exe
+C:\Users\Andrew\Source\Repos\FunWPF\FunWPF\FunWPF\bin\Debug\FunWPF.pdb
+C:\Users\Andrew\Source\Repos\FunWPF\FunWPF\FunWPF\obj\Debug\FunWPF.exe
+C:\Users\Andrew\Source\Repos\FunWPF\FunWPF\FunWPF\obj\Debug\FunWPF.pdb
+C:\Users\Andrew\Source\Repos\FunWPF\FunWPF\FunWPF\obj\Debug\FunWPF.FunWPF.resources
